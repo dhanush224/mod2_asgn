@@ -1,25 +1,25 @@
 *{
-	box-sizing: border-box; 
-	margin: 0;
+    box-sizing: border-box; 
+    margin: 0;
     padding: 0;
-}	
+}   
 h1{
-	margin-top: 10px;
-	margin-bottom: 25px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
-p {	
- 	border: 2px solid black;      
-	background-color: gray;   
-	width: 80%; 	
-	height: 250px;
+p { 
+    border: 2px solid black;      
+    background-color: gray;   
+    width: 80%;     
+    height: 250px;
     margin-right: auto;
     margin-left: auto;
-	overflow: auto;  
-	padding: 50px 10px 10px 10px;
+    overflow: auto;  
+    padding: 50px 10px 10px 10px;
     position: relative;
 }
 
-.a,.b,.c{
+span{
     font-size:  125%;    
     border-width: 0px 0px 2px 2px;
     border-style: solid;
@@ -31,14 +31,14 @@ p {
     right: 0;
 }
 .a{
-	background-color: pink;
+    background-color: pink;
 }
 .b{
-	background-color: #9D363F;
+    background-color: #9D363F;
 }
 .c{
-	background-color: #84BAF3;
+    background-color: #84BAF3;
 }
 .row{
-	width: 100%;
+    width: 100%;
 }
